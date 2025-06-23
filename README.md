@@ -16,5 +16,5 @@ A aplicação realiza a busca de informações de endereço a partir de um CEP v
 A interface da aplicação é composta por um formulário Windows Forms contendo um MaskedTextBox (TxtbCEP) para entrada do CEP, um Button (BtnBuscar) para iniciar a consulta, um GroupBox (GrbResultado) para organizar os resultados e 10 Labels para exibir as informações (CEP, logradouro, complemento, unidade, bairro, localidade, UF, estado, região e DDD). O código utiliza a classe WebClient para realizar a requisição HTTP à API ViaCEP e a biblioteca Newtonsoft.Json para desserializar o JSON retornado em um objeto da classe Endereco. A classe Endereco contém propriedades mapeadas para os campos retornados pela API, utilizando atributos JsonProperty para corresponder aos nomes dos campos no JSON.
 
 
-![LocalizadorDeCEP](LocalizadorDeCEP/imagem/imagem.png)
+![LocalizadorDeCEP](LocalizadorDeCEP/Imagem/imagem.png)
 
