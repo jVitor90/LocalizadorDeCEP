@@ -1,0 +1,13 @@
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\bin\Debug\LocalizadorDeCEP.exe.config
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\bin\Debug\LocalizadorDeCEP.exe
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\bin\Debug\LocalizadorDeCEP.pdb
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\LocalizadorDeCEP.csproj.AssemblyReference.cache
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\LocalizadorDeCEP.Form1.resources
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\LocalizadorDeCEP.Properties.Resources.resources
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\LocalizadorDeCEP.csproj.GenerateResource.cache
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\LocalizadorDeCEP.csproj.CoreCompileInputs.cache
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\LocalizadorDeCEP.exe
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\LocalizadorDeCEP.pdb
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao.vfoliveira26\source\repos\LocalizadorDeCEP\LocalizadorDeCEP\obj\Debug\Localiza.5B1C0DFA.Up2Date
